@@ -18,7 +18,7 @@ The collaboration for this lab project consisted mainly of face-to-face and text
 
 **Chris**: I completed the Tasks 1,3,5 of the lab project and wrote the unit tests for the project. The tasks were all completed in order and we switched every other task as per the lab assignment requirements.
 
-**Tanmay**: FILL IN HERE
+**Tanmay**: I completed the Tasks 2 and 4 of the lab project. I also worked on parts of readme.md. We worked on alternate tasks. Since Chris started from task 1, I completed task 2 and task 4.
 
 ## Testing
 The testing for this lab project consists of unit tests for the individual components; IE, the bank, the accounts, etc. All of the tests that were implemented in this lab project are automated and can be run using the NetBeans built in "Run Tests" functionality. We didn't discover bugs while doing the unit tests; however, the unit tests proved very helpful for building the program as we invisioned it in our heads. The tests were written by Chris, but, both all team members had input into them. All tests were commited after the code, but the code was removed prior to writting the tests to ensure test integrity.
